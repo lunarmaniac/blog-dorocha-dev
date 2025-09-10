@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the internal need for a username"
+title: "the deep need for the username"
 date: 2025-09-9 12:00:00 -0000
 tags: [username, story, suicide-inducing]
 description: "the journey to claim the username dorocha"
@@ -8,7 +8,7 @@ description: "the journey to claim the username dorocha"
 
 this is a shit story about my fuckin trials and tribulations just to get the username "dorocha" on github and spoiler alert failed xd LOL
 
-## the need for the username
+## the deep need for the username
 
 one day, while engaging in a bit of trolling on minecraft, i got banned from the server. naturally, the only solution was to buy a new account to rejoin. while thinking of a username for the new account, i was browsing the fandom wiki page for my favorite show, bbc's 2008 "merlin" (awesome i know) and i thought, why not see if any character names are available on minecraft
 
